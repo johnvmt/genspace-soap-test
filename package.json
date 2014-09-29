@@ -1,0 +1,15 @@
+{
+	"name": "genspace-mobile-soap-test",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node test.js"
+	},
+	"dependencies": {
+		"soap": "git://github.com/johnvmt/soap-genspace.git",
+		"crypto": "0.0.x"
+	},
+	"engines": {
+		"node": ">= 0.8"
+	}
+}
