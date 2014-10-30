@@ -1,4 +1,5 @@
 /* DON'T NEED TO MODIFY THIS UNLESS THERE'S A BUG */
+
 var facades = {
 	user: "UserFacade",
 	public: "PublicFacade",
